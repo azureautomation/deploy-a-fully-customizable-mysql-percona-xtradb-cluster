@@ -1,0 +1,20 @@
+{
+    "Author": "Paige Liu",
+    "ContentSize": 20602,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/deploy-a-fully-customizable-mysql-percona-xtradb-cluster/master/DeployPXC_runbook.ps1",
+    "DownloadCount": 1010,
+    "Id": "Deploy-a-fully-customizable-4dc5831e",
+    "IsFederated": false,
+    "IsWorkflow": true,
+    "Popularity": 570,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2015-1-12T00:00:00",
+    "RunbookKind": 6,
+    "RunbookKindString": "PowerShell Workflow",
+    "Summary": "This runbook deploys a fully customizable MySQL Percona XtraDB Cluster 5.6 on CentOS 6.5 and Ubuntu 12.04 LTS in Azure. PXC is an open source high availability MySQL solution. Script source code are located at https://github.com/liupeirong/Azure/tree/master/DeployPXC.",
+    "Title": "Deploy a fully customizable MySQL Percona XtraDB Cluster",
+    "UpdatedDate": "2015-4-7T00:00:00",
+    "Url": "https://github.com/azureautomation/deploy-a-fully-customizable-mysql-percona-xtradb-cluster",
+    "UserTags": "MySQL, Provisioning, MySQL high availability"
+}
